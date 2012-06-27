@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Create Figlet From Selection",
+        "command": "create_figlet"
+    }
+]
